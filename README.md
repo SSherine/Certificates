@@ -1,4 +1,4 @@
-# Case Study Activity
+# TEMPERATURE_MONITORING_SYSTEM
 
 ## Heat Control System
  The heat control system is used to control the temperature of a vehicle seat. When passengers or driver of the car gets seated on a car, the button sensor gets activate after that heater enabled. The temperarure sensor keeps monitoring the temperature and sends analog value of temperature to the microcontroller. The microcontroller converts analog to digital values using ADC and display the digital value of temperature.
