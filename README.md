@@ -1,2 +1,0 @@
-# certificates
-training certificates
